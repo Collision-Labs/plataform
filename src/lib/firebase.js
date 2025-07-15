@@ -5,12 +5,12 @@ import { getStorage } from 'firebase/storage'
 
 // Configuração do Firebase Web SDK
 const firebaseConfig = {
-  apiKey: "AIzaSyBvOyiDlAcIM-kuUbGfXVJrMEsxzR6sDGc", // Placeholder - precisa ser configurado
+  apiKey: "AIzaSyAR0lgr0PO05zvSo5vRnnE190RqjbGyamQ", // Placeholder - precisa ser configurado
   authDomain: "collisionlabs-cb323.firebaseapp.com",
   projectId: "collisionlabs-cb323",
   storageBucket: "collisionlabs-cb323.appspot.com",
-  messagingSenderId: "123456789", // Placeholder - precisa ser configurado
-  appId: "1:123456789:web:abcdef123456" // Placeholder - precisa ser configurado
+  messagingSenderId: "906190944870", // Placeholder - precisa ser configurado
+  appId: "1:906190944870:web:98d011588f80eda840cba7" // Placeholder - precisa ser configurado
 }
 
 // Inicializar Firebase
